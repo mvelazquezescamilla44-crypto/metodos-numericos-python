@@ -1,7 +1,9 @@
 # Introducción
 
-Los métodos numéricos constituyen una herramienta fundamental para la solución de problemas matemáticos mediante procedimientos computacionales.
+Los métodos numéricos constituyen una rama fundamental de las matemáticas aplicadas y la computación, ya que permiten obtener soluciones aproximadas a problemas que, en muchos casos, no pueden resolverse de manera exacta mediante métodos analíticos. Estas técnicas son ampliamente utilizadas en áreas como la ingeniería, la física, la economía, la estadística y las ciencias computacionales, donde es necesario procesar grandes cantidades de información y resolver problemas complejos de forma eficiente.
 
-En este proyecto se implementaron diversos algoritmos utilizando Python, permitiendo resolver problemas relacionados con errores numéricos, búsqueda de raíces, sistemas de ecuaciones lineales, integración numérica e interpolación.
+El presente proyecto fue desarrollado utilizando el lenguaje de programación Python con el propósito de implementar diversos algoritmos estudiados durante la asignatura de Métodos Numéricos. A través de la programación de cada método, se buscó comprender no solo su fundamento teórico, sino también su aplicación práctica en la resolución de problemas matemáticos.
 
-El desarrollo de estos programas permitió aplicar los conocimientos teóricos adquiridos durante el curso y comprender el funcionamiento de diferentes técnicas numéricas.
+Entre los temas abordados se encuentran el análisis de errores y cifras significativas, los métodos para la solución de ecuaciones no lineales, la resolución de sistemas de ecuaciones lineales, la integración numérica y la interpolación de datos. Cada unidad incluye programas desarrollados de manera independiente, acompañados de documentación y evidencias de ejecución que permiten comprender su funcionamiento y verificar los resultados obtenidos.
+
+La elaboración de este proyecto permitió fortalecer habilidades relacionadas con el razonamiento lógico, el análisis matemático, la programación y la organización de proyectos utilizando herramientas de desarrollo como Visual Studio Code y GitHub. Asimismo, se logró establecer una relación directa entre los conceptos teóricos vistos en clase y su implementación computacional, demostrando la importancia de los métodos numéricos en la solución de problemas reales.
