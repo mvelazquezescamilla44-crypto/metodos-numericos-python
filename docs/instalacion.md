@@ -10,7 +10,7 @@
 ## Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/mvelazquezescamilla44-crypto/metodos-numericos-python.git
 ```
 
 ## Acceder al proyecto
